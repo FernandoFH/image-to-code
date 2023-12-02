@@ -1,4 +1,4 @@
-### Proyeccto de Video Youtube @MiduDev
+### Proyecto de Video Youtube @MiduDev
 
 - [GPT Vision](https://www.youtube.com/watch?v=Mhk78pRLHeo)
 
